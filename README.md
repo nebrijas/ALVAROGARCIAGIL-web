@@ -1,3 +1,5 @@
+# Repositorio de trabajo del módulo de Periodismo de datos II
+
 # Actividad dirigida 1
 
 Esta actividad consiste en escribir una opinión sobre alguna nota de visualziación que llame la atención al estudiante y practicar con **Markdown** 
@@ -14,3 +16,10 @@ La manera sencilla con la que se permite ***interactuar*** con la visualización
 ### Opiniones destacables de la noticia:
 * 1- Fácil interacción para el usuario
 * 2- Información actualizada y de fácil acceso
+
+
+## ACTIVIDADES DIRIGIDAS
+
+- [Actividad dirigida 1](ad1.md)
+- [Actividad dirigida 2](ad2.md) 
+ 
