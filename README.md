@@ -1,5 +1,4 @@
 # Actividad dirigida 1
-# Repositorio de trabajo del módulo de Periodismo de datos II
 
 Esta actividad consiste en escribir una opinión sobre alguna nota de visualziación que llame la atención al estudiante y practicar con **Markdown** 
 
