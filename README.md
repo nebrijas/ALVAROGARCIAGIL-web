@@ -10,6 +10,8 @@ Esta actividad consiste en escribir una opinión sobre alguna nota de visualziac
  
  ### El mapa del coronavirus en el mundo: así avanzan los contagios y las muertes día a día
  
+ ![Imagen ilustrativa](https://img2.rtve.es/n/1996067?w=800&preview=1583357155544.jpg)
+ 
 Me he decantando por esta noticia procedente del periódico más importante de España del 2 de marzo de 2021. En esta visualización se nos ve representada toda la **actualidad referente al coronavirus en el mundo**. Entro creamos un mapa donde se presente de manera **interactiva** el conjunto de países y sus datos de COVID-19. La manera de contar la noticia es sencilla, comenzando con el mapa para después añadir gráficas de cada uno. Nos exponen **las variables con las que se analiza la pandemia** para facilitarnos el trabajo.
 La manera sencilla con la que se permite ***interactuar*** con la visualización del mapa es uno de los puntos a favor de esta notica. Cada país está coloreado de rojo,naranja o verde dependiendo si la incidencia es alta, mediana o baja.
 
