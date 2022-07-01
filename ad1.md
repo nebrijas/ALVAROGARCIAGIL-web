@@ -1,7 +1,7 @@
 # Repositorio de trabajo del módulo de Periodismo de datos II
 
 # Actividad dirigida 1
-ggggg
+
 Esta actividad consiste en escribir una opinión sobre alguna nota de visualziación que llame la atención al estudiante y practicar con **Markdown** 
 
 ## Visualización de datos de EL PAÍS
